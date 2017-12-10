@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gluons/vue-highlight.js.git"
+  },
   "keywords": [
     "vue",
     "vuejs",
@@ -17,6 +21,13 @@
     "vue-highlight",
     "vue-markdown-highlight",
   ],
-  "author": "stark wang",
+  "devDependencies": {
+   "highlight.js": "^9.12.0",
+   "vue": "^2.5.3"
+ },
+ "bugs": {
+   "url": "https://github.com/wsd/vue-markdown-highlight/issues"
+  },
+  "author": "stark wang <wsd312@163.com>",
   "license": "ISC"
 }
