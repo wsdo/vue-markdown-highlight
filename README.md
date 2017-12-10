@@ -1,12 +1,12 @@
 # vue-markdown-highlight
-[![license](https://img.shields.io/github/license/gluons/vue-markdown-highlight.svg?style=flat-square)](https://github.com/gluons/vue-markdown-highlight/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/shudong/vue-markdown-highlight.svg?style=flat-square)](https://github.com/shudong/vue-markdown-highlight/blob/master/LICENSE)
 [![vue 2](https://img.shields.io/badge/vue-2-42b983.svg?style=flat-square)](https://vuejs.org)
 [![npm](https://img.shields.io/npm/v/vue-markdown-highlight.svg?style=flat-square)](https://www.npmjs.com/package/vue-markdown-highlight)
 [![npm](https://img.shields.io/npm/dt/vue-markdown-highlight.svg?style=flat-square)](https://www.npmjs.com/package/vue-markdown-highlight)
-[![Travis](https://img.shields.io/travis/gluons/vue-markdown-highlight.svg?style=flat-square)](https://travis-ci.org/gluons/vue-markdown-highlight)
-[![Codacy grade](https://img.shields.io/codacy/grade/3d15a7c11bfe47c69a2aed93cc67cc29.svg?style=flat-square)](https://www.codacy.com/app/gluons/vue-markdown-highlight)
-[![Gemnasium](https://img.shields.io/gemnasium/gluons/vue-markdown-highlight.svg?style=flat-square)](https://gemnasium.com/github.com/gluons/vue-markdown-highlight)
-[![ESLint Gluons](https://img.shields.io/badge/code%20style-gluons-9C27B0.svg?style=flat-square)](https://github.com/gluons/eslint-config-gluons)
+[![Travis](https://img.shields.io/travis/shudong/vue-markdown-highlight.svg?style=flat-square)](https://travis-ci.org/shudong/vue-markdown-highlight)
+[![Codacy grade](https://img.shields.io/codacy/grade/3d15a7c11bfe47c69a2aed93cc67cc29.svg?style=flat-square)](https://www.codacy.com/app/shudong/vue-markdown-highlight)
+[![Gemnasium](https://img.shields.io/gemnasium/shudong/vue-markdown-highlight.svg?style=flat-square)](https://gemnasium.com/github.com/shudong/vue-markdown-highlight)
+[![ESLint Gluons](https://img.shields.io/badge/code%20style-shudong-9C27B0.svg?style=flat-square)](https://github.com/shudong/eslint-config-shudong)
 
 📜 [Highlight.js](https://github.com/isagalaev/highlight.js) syntax highlighter component for [Vue](https://vuejs.org).
 
