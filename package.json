@@ -19,7 +19,7 @@
     "highlight",
     "markdown",
     "vue-highlight",
-    "vue-markdown-highlight",
+    "vue-markdown-highlight"
   ],
   "devDependencies": {
    "highlight.js": "^9.12.0",
