@@ -61,9 +61,9 @@ Vue.use(Highlight)
 
 ```vue
 <template>
-	<div id="app">
+	 <div id="app">
       <div v-html="content" v-highlight></div>
-	</div>
+  </div>
 </template>
 
 <script>
